@@ -2,10 +2,7 @@
 # A INTELIGÊNCIA ARTIFICIAL E O BIG DATA NO SETOR DA SAÚDE: OS SISTEMAS ESPECIALISTAS E O DIREITO
 
 ## Relevancia: 
-- [x] Alta.
-- [ ] Média.
-- [ ] Baixa.
-- [ ] Nenhuma.
+- [x] Alta - [ ] Média - [ ] Baixa - [ ] Nenhuma
 
 
 ```bibtex
