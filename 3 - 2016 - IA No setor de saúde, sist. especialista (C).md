@@ -5,10 +5,10 @@
 
 
 Relevância: 
-- [ ] Alta    0
-- [ ] Média   1
-- [ ] Baixa   2
-- [X] Nenhuma 3
+- [ ] Alta    
+- [ ] Média   
+- [ ] Baixa   
+- [X] Nenhuma 
 
 > Artigo da área de propriedade intelectual e Direito.
 
