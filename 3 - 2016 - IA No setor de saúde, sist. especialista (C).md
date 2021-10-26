@@ -11,6 +11,7 @@ Relevância:
 - [X] Nenhuma 
 
 > Artigo da área de propriedade intelectual e Direito.
+> Atenção ao que se refere
 
 ## Referência
 ```bibtex
@@ -30,3 +31,4 @@ Relevância:
 O presente artigo terá como objetivo estudar os Sistemas Especialistas sob a perspectiva das novas tecnologias de Inteligência Artificial e Big Data e será organizado de maneira a, em um primeiro momento, apresentar os aspectos conceituais relativos à Inteligência Artificial e a Inteligência Artificial na Medicina (IAM), bem como apresentar os Sistemas Especialistas e relacionar tais sistemas com as novas tecnologias da Inteligência Artificial e Big Data. A segunda parte desse estudo irá propor algumas reflexões e problemáticas referentes aos Sistemas Especialistas sob a perspectiva do Direito, com maior foco em questões de Propriedade Intelectual, Responsabilidade,Privacidade e Ética. A terceira e última parte do estudo compreenderá as considerações finais sobre o tema e sugestões para estudos futuros. 
 
 ## Anotações
+Esse artigo tem orientações sobre o avaço dos sistemas especialistas ao longo dos anos e como usá-los em uma aplicaçõ voltada para o direito

@@ -1,8 +1,18 @@
 # SOLUÇÃO DE BAIXO CUSTO PARA O MONITORAMENTO DE SINAIS VITAIS, EM TEMPO REAL, FAZENDO USO DE SENSORES E ARDUINO
 
-Bib TeX'
-Ano: 2020
+[Download](https://journal.unoeste.br/index.php/ce/article/view/3817/3089)
 
+
+Relevância: 
+- [ ] Alta    
+- [ ] Média   
+- [ ] Baixa   
+- [X] Nenhuma 
+
+>
+
+## Referência
+```bibtex
 @inproceedings{dos2020soluccao,
   title={SOLU{\c{C}}{\~A}O DE BAIXO CUSTO PARA O MONITORAMENTO DE SINAIS VITAIS, EM TEMPO REAL, FAZENDO USO DE SENSORES E ARDUINO},
   author={dos Santos Gonsalves, Alexandre and Siscoutto, Robson Augusto},
@@ -12,4 +22,6 @@ Ano: 2020
   pages={102--118},
   year={2020}
 }
+```
 
+## Resumo
