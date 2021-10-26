@@ -5,9 +5,9 @@
 
 Relevância: 
 - [ ] Alta    
-- [ ] Média   
+- [X] Média   
 - [ ] Baixa   
-- [X] Nenhuma 
+- [ ] Nenhuma 
 
 >
 
@@ -25,3 +25,9 @@ Relevância:
 ```
 
 ## Resumo
+
+
+
+
+## Coentários
+O autor elabora uma aplicação com arduíno para o uso de sinais vitais
