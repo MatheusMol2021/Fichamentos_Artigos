@@ -3,14 +3,6 @@
 [Download](https://journal.unoeste.br/index.php/ce/article/view/3817/3089)
 
 
-Relevância: 
-- [ ] Alta    
-- [X] Média   
-- [ ] Baixa   
-- [ ] Nenhuma 
-
->
-
 ## Referência
 ```bibtex
 @inproceedings{dos2020soluccao,
