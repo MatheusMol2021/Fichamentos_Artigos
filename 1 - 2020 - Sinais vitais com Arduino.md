@@ -29,5 +29,5 @@ Relevância:
 
 
 
-## Coentários
+## Comentários
 O autor elabora uma aplicação com arduíno para o uso de sinais vitais
