@@ -39,4 +39,21 @@
 > \underline
 >>- Sublinha o texto
 
-## Inserir pacote
+## Inserir fugura
+> \usepackage{graficx}
+>>- insere pacotes para inserir figuras
+
+> \begin{figure} 
+> \end{figure}
+```
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=5cm]{LA.jpg}
+    \caption{logo lati}
+    \label{fig:my_label}
+\end{figure}
+```
+>> - insere figuras
+
+> \ref{caption}
+>>- Usado para citar a figura
