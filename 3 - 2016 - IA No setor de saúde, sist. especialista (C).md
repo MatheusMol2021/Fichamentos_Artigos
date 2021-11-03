@@ -4,12 +4,6 @@
 [Download](https://dialnet.unirioja.es/descarga/articulo/6748173.pdf)
 
 
-Relevância: 
-- [ ] Alta    
-- [ ] Média   
-- [ ] Baixa   
-- [X] Nenhuma 
-
 > Artigo da área de propriedade intelectual e Direito.
 > Atenção ao que se refere
 

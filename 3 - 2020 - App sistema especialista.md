@@ -4,14 +4,6 @@
 [Download](https://periodicos.ufsm.br/educacaoespecial/article/view/42711/pdf)
 
 
-Relevância: 
-- [ ] Alta    
-- [ ] Média   
-- [ ] Baixa   
-- [X] Nenhuma 
-
->
-
 ## Referência
 ```bibtex
 @article{guerra2020aplicativo,
