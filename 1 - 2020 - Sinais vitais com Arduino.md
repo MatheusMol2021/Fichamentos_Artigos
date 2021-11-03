@@ -23,3 +23,10 @@
 
 ## Comentários
 O autor elabora uma aplicação com arduíno para o uso de sinais vitais
+
+## Pontos Fortes
+- Ponto forte 1
+- Ponto Forte 2
+
+## Pontos Fracos
+Uso do arduíono
