@@ -2,7 +2,7 @@
 
 
 [Download](http://seer.upf.br/index.php/rbca/article/view/3842/3501)
-http://seer.upf.br/index.php/rbca/article/view/3842/3501
+
 
 ```BibTex
 @article{furtado2015ferramenta,
