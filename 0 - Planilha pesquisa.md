@@ -7,3 +7,4 @@ sinais vitais
 IA na saúde
 sistema especialista
 bigdata
+monitoring vital signs
