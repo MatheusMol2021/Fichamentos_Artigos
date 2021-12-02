@@ -1,7 +1,7 @@
 	
 # A *INTELIGÊNCIA ARTIFICIAL E O BIG DATA* NO SETOR DA SAÚDE: OS SISTEMAS ESPECIALISTAS E O DIREITO
 
-[Download](https://dialnet.unirioja.es/descarga/articulo/6748173.pdf)
+[Download](https://periodicos.ufsm.br/educacaoespecial/article/download/42711/pdf)
 
 
 > Artigo da área de propriedade intelectual e Direito.
@@ -26,3 +26,21 @@ Estudar os Sistemas Especialistas sob a perspectiva das novas tecnologias de Int
 
 ## Anotações
 Esse artigo tem orientações sobre o avaço dos sistemas especialistas ao longo dos anos e como usá-los em uma aplicação voltada para o direito
+
+
+## Pontos Fortes
+- IA fraca seria aquela verificada nas tecnologias atuais e
+consistiria no fato de que a IA seria capaz de executar tarefas limitadas a determinadas
+capacidades humanas, como lógica etc, e que são de interesse para aplicação comercial. 
+
+- chama-se atenção para um campo de pesquisa denominado Inteligência Artificial na Medicina,
+que consiste na aplicação de tecnologias de inteligência artificial na Medicina. Essas
+tecnologias podem ser das mais diversas aplicações, desde softwares especialistas
+capazes de prover diagnósticos, computação bioinspirada mediante a utilização de redes
+neurais artificiais13, até robôs que auxiliam cirurgiões em operações de alta precisão
+
+-Como já foi visto no presente estudo, determinados sistemas dotados
+de inteligência artificial são capazes de prover diagnósticos precisos e até mesmo um
+planejamento terapêutico personalizado.
+
+-uma decisão tomada por um sistema de inteligência artificial pode ser a matematicamente mais apropriada, mas não a “humanamente” mais apropriada.
