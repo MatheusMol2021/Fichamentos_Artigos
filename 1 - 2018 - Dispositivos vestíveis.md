@@ -24,7 +24,7 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 
 ## Comentários
 - Verificar rede Lora
--  Verificar google eye leans
+- Verificar google eye leans
 
 ## Pontos Fortes
 -Saturação de oxigenação do sangue é imprescindível (item 3.5 pag7)
