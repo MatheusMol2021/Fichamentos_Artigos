@@ -24,11 +24,11 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 
 ## Comentários
 - Verificar rede Lora
--  Verificar google eye leans
+- Verificar google eye leans
 
 ## Pontos Fortes
--Saturação de oxigenação do sangue é imprescindível (item 3.5 pag7)
--os protocolos mais usados para transmissão de sinais são Bluetooth, Wi-Fi, ZigBee e o mais recente
+- Saturação de oxigenação do sangue é imprescindível (item 3.5 pag7)
+- Os protocolos mais usados para transmissão de sinais são Bluetooth, Wi-Fi, ZigBee e o mais recente
 LoRa (Long Range radio).
 
 ## Pontos Fracos
