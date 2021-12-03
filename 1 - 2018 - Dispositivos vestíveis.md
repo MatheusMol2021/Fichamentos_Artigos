@@ -31,4 +31,9 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 - Os protocolos mais usados para transmissão de sinais são Bluetooth, Wi-Fi, ZigBee e o mais recente
 LoRa (Long Range radio).
 
+
+(introdução)
+o autor, afirma que monitorar o estado de saúde tanto para níveis médicos ou simplesmente para autosuficiêcia permite um diagnóstico precoce e orienta um melhor tratamento. Associado a isso, a revolução tecnológicas para miniatufização dos dispositivos favorece cada vez mais a implantação de dispositivos vestíveis para monitorar os sinais vitais dos indivíduos. Dentre os sinais vitais o autor cita que frequ~encia cardíaca, pressão sanguínea e saturação de oxigenio são alguns dos principais sistemas a serem monitorados
+
+
 ## Pontos Fracos
