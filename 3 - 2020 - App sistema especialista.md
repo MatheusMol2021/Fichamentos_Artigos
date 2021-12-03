@@ -33,4 +33,4 @@ Palavras-chave: Acessibilidade; sistemas especialistas; aplicativo mobile.
 
 -A base de conhecimento, geralmente composta por fatos e regras, compreende a
 forma de guardar o conhecimento do domínio ou de representá-lo, possibilitando sua
-utilização posterior pela máquina de Inferência
+utilização posterior pela máquina de Inferência 

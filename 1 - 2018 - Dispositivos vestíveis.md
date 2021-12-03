@@ -31,4 +31,7 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 -os protocolos mais usados para transmissão de sinais são Bluetooth, Wi-Fi, ZigBee e o mais recente
 LoRa (Long Range radio).
 
+
+
+
 ## Pontos Fracos
