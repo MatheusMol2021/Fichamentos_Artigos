@@ -38,4 +38,19 @@ o autor, afirma que monitorar o estado de saúde tanto para níveis médicos ou 
 (Elaboração)
 De acordo com o autor, detecção de anomalias consiste na identificação de padrões incomuns ou que não estão em conformidade com o esperado. O alarme é apenas uma subtarefa para informar quando alguma dessa anomalia é detectada
 
+para o autor existem 4 requisitos para os vestíveis seriam: baixo consumo de enrgia, confiabilidade, segurança, conforto e ergonomia.
+
+Na literatura da medicina, os sinais mais importantes a serem monitorados, frequência cardíaca, pressão sanguínea, frequência respiratória, saturação de oxigenio, temperatura do corpo. 
+
+A fim de melhor descrever o trabalho, trabalharemos com 3 sinais:
+- Frequencia cardíaca: é um sinal padrão e que se tornou uma medida de rotina em ambos os serviços de saúde, pois é um indicador de um status psicofisiológicos humano para medições de estresse e fadiga.
+
+- Pressão sanguínea: é um parametro cardiopulmonar importante que permite monitorar a hipertensão alem de colaborar para mitigar doenças relacionadas ao sistema cardiovascular,
+
+- Frequencia respiratória: Além de indicar informações importantes como acidose, angustia e potencia hipóxia, é um grande presitor a eventos adversos como parada cardíaca, tambem sendo importante na detecção de sintomas respiratorios como apneis e doença pulmonar obstrutiva crônica e asma
+
+- Saturação de CO2: A saturação de Co2 indica tambem a capacidade do organismo de fornecer oxigenio para o corpo,
+
+
+
 ## Pontos Fracos
