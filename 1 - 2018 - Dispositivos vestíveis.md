@@ -32,10 +32,10 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 LoRa (Long Range radio).
 
 
-(introdução)
+### (introdução)
 o autor, afirma que monitorar o estado de saúde tanto para níveis médicos ou simplesmente para autosuficiêcia permite um diagnóstico precoce e orienta um melhor tratamento. Associado a isso, a revolução tecnológicas para miniatufização dos dispositivos favorece cada vez mais a implantação de dispositivos vestíveis para monitorar os sinais vitais dos indivíduos. Dentre os sinais vitais o autor cita que frequencia cardíaca, pressão sanguínea e saturação de oxigenio são alguns dos principais sistemas a serem monitorados
 
-(Elaboração)
+### (Elaboração)
 De acordo com o autor, detecção de anomalias consiste na identificação de padrões incomuns ou que não estão em conformidade com o esperado. O alarme é apenas uma subtarefa para informar quando alguma dessa anomalia é detectada
 
 para o autor existem 4 requisitos para os vestíveis seriam: baixo consumo de enrgia, confiabilidade, segurança, conforto e ergonomia.
@@ -49,7 +49,16 @@ A fim de melhor descrever o trabalho, trabalharemos com 3 sinais:
 
 - Frequencia respiratória: Além de indicar informações importantes como acidose, angustia e potencia hipóxia, é um grande presitor a eventos adversos como parada cardíaca, tambem sendo importante na detecção de sintomas respiratorios como apneis e doença pulmonar obstrutiva crônica e asma
 
-- Saturação de CO2: A saturação de Co2 indica tambem a capacidade do organismo de fornecer oxigenio para o corpo,
+- Saturação de CO2: A saturação de Co2 indica tambem a capacidade do organismo de fornecer oxigenio para o corpo, a ausencia desse oxigenio pode provocar um apagão nas partes do corpo, e tambem podemos associar a oxigenação em função da carga da tarefa.
+
+### (Arquitetura)
+Com o surgimento de doenças cronicas muito aparelhos vestíveis estão sendo implantados no mercado, os protocolos de comunicação mais utilizados seriam o Bluetooth, Wi-Fi, ZigBee e o mais recente LoRa (Long Range radio). Assim sendo, o objetivo será utilizar os sinais já existentes para a criação de um sistema especialista que utilize estes dados para contribuir com o atendimento e mitigar os acidentes.
+
+Uma grande vantagem que os dispositivos usáveis propostos pelo autor podem armazenar seus dados via mídia pendrive ou cartão SD, que permite que os dados possam ser utilizados em um sistema de banco de dados para diagnósticos clínicos e previsão feitos por profissionais da saúde.
+
+### (Conclusão)
+
+Dispositivos de saúde vestíveis já são realidade no mercardo e tem grande espaço na área médica e segundo o autor, o principal valor potencial é utilizar sistemas inteligentes que geram alertas para os provedores de saúde.
 
 
 
