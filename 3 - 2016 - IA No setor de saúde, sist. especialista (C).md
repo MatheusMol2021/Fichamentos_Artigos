@@ -39,8 +39,12 @@ tecnologias podem ser das mais diversas aplicações, desde softwares especialis
 capazes de prover diagnósticos, computação bioinspirada mediante a utilização de redes
 neurais artificiais13, até robôs que auxiliam cirurgiões em operações de alta precisão
 
--Como já foi visto no presente estudo, determinados sistemas dotados
+- Como já foi visto no presente estudo, determinados sistemas dotados
 de inteligência artificial são capazes de prover diagnósticos precisos e até mesmo um
 planejamento terapêutico personalizado.
 
--uma decisão tomada por um sistema de inteligência artificial pode ser a matematicamente mais apropriada, mas não a “humanamente” mais apropriada.
+- uma decisão tomada por um sistema de inteligência artificial pode ser a matematicamente mais apropriada, mas não a “humanamente” mais apropriada.
+
+
+- os Sistemas especialistas consiste em utilizar regras de determinado domínio do conhecimento e utilizá-las em um processo de desicão ou sugestão. Para isso 3 componente são imprescindíveis, seriam a base de conhecimento, máquina de inferencia e interface de comunicação com o usuário, a base de conhecimento seria onde os dados são armazenados, a maquina de inferencia recebe os dados e é renponsável pela tomada de decisão e por fim, a interface de comunicação exibe os respostas para o usuário.
+
