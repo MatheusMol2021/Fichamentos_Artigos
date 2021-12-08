@@ -29,8 +29,8 @@ Palavras-chave: Acessibilidade; sistemas especialistas; aplicativo mobile.
  aprendizagem;
  2 Adaptabilidade: permitir adaptações em diferentes ambientes de ensino;
 
--Um SE possui três componentes principais: base de conhecimento, máquina de Inferência e interface de comunicação com o usuário (LORENZI; SILVEIRA, 2011).
+- Um SE possui três componentes principais: base de conhecimento, máquina de Inferência e interface de comunicação com o usuário (LORENZI; SILVEIRA, 2011).
 
--A base de conhecimento, geralmente composta por fatos e regras, compreende a
+- A base de conhecimento, geralmente composta por fatos e regras, compreende a
 forma de guardar o conhecimento do domínio ou de representá-lo, possibilitando sua
 utilização posterior pela máquina de Inferência 
