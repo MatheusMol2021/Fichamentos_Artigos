@@ -39,7 +39,7 @@ Existem 4 requisitos para os dispositivos vestíveis seriam: baixo consumo de en
 
 Na literatura da medicina, os sinais mais importantes a serem monitorados são frequência cardíaca, pressão sanguínea, frequência respiratória, saturação de oxigenio, temperatura do corpo. 
 
-O artigo trabalha com 3 sinais:
+O artigo trabalha com 4 sinais:
 - **Frequência cardíaca**: é um sinal padrão e que se tornou uma medida de rotina em ambos os serviços de saúde, pois é um indicador de um status psicofisiológicos humano para medições de estresse e fadiga.
 
 - **Pressão sanguínea**: é um parametro cardiopulmonar importante que permite monitorar a hipertensão alem de colaborar para mitigar doenças relacionadas ao sistema cardiovascular,

@@ -7,3 +7,14 @@ Cafe [Acesso](https://www-periodicos-capes-gov-br.ez120.periodicos.capes.gov.br/
 | sistema especialista  |                         |
 | bigdata               |                         |
 | monitoring vital signs|                         |
+
+
+
+
+#Ainda não Perquisados
+| query                 | nº de atigos relevantes |
+|-----------------------|-------------------------|
+| uso de EPI nas ind.   |                         |
+| mineração de dados    |                         |
+| Algoritmo Class. SVM  |                         |
+
