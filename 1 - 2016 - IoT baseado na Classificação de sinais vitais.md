@@ -26,7 +26,7 @@
 
 - Na tentativa de melhorar o sistema de saúde passou a ser monitorado os principais sinais vitais, eles incluem: Medição de temperatura, frequência respiratória, pulso, pressão sanguínea e saturação de oxigênio no sangue. Deste modo, pode-se identificar qualquer problema médico, doença ou estresse fisiológico.
 
-- Cada doença apresenta uma ténica de mineração de dados diferente como Naïve Bayes e Support Vector Machine, para doenças renais foi utilizado o algoritmo SVM.
+- Cada doença apresenta uma técnica de mineração de dados diferente como Naïve Bayes e Support Vector Machine, para doenças renais foi utilizado o algoritmo SVM.
 
 - No artigo foram aplicadas técnicas de Bigdata, como Hadoop, HDFS, Storm e Oozie e sua análise de dados é feita por mineração de dados. Uma outra abordagem considerou 9 condições clínicas para diagnosticar insuficiência respiratória, considerando apenas 3 medições fisiológicas (frequência cardíaca, pressão arterial e taxa de respiração.
 
@@ -34,7 +34,7 @@
 
 - Processamento de dados: Os sinais vitais variam de acordo com o dia e a hora e além disso os sensores podem ser afetados por diferentes fatores ambientais.
 
- 1. Algoritmo Naive: Os objetos são classificados com base no modelo probabilístico, nesse algoritmo o maior valor de hipótese para classificar os objetos.
+ 1. Algoritmo Naïve Bayes: Os objetos são classificados com base no modelo probabilístico, nesse algoritmo o maior valor de hipótese para classificar os objetos.
 
  2. Algoritmo J48: Gera uma árvore de decisão para cada conjunto de dados, a participação que tem maior ganho de informação é selecionada como mehor atributo que classifique os dados.
 
