@@ -40,5 +40,5 @@ capacidades humanas, como lógica etc, e que são de interesse para aplicação 
 
 - Uma decisão tomada por um sistema de inteligência artificial pode ser a matematicamente mais apropriada, mas não a “humanamente” mais apropriada.
 
-- Os Sistemas Especialistas consistem em utilizar regras de determinado domínio do conhecimento e utilizá-las em um processo de desicão ou sugestão. Para isso, 3 componentes são imprescindíveis. Seriam a base de conhecimento, máquina de inferência e interface de comunicação com o usuário. A base de conhecimento seria onde os dados são armazenados, a máquina de inferência recebe os dados e é renponsável pela tomada de decisão e por fim, a interface de comunicação exibe os respostas para o usuário.
+- Os Sistemas Especialistas consistem em utilizar regras de determinado domínio do conhecimento e utilizá-las em um processo de decisão ou sugestão. Para isso, 3 componentes são imprescindíveis. Seriam a base de conhecimento, máquina de inferência e interface de comunicação com o usuário. A base de conhecimento seria onde os dados são armazenados, a máquina de inferência recebe os dados e é renponsável pela tomada de decisão e por fim, a interface de comunicação exibe os respostas para o usuário.
 
