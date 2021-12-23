@@ -18,3 +18,9 @@ Cafe [Acesso](https://www-periodicos-capes-gov-br.ez120.periodicos.capes.gov.br/
 | mineração de dados    |                         |
 | Algoritmo Class. SVM  |                         |
 
+
+
+
+#Base de dados
+MIT-BIH Arrhythmia Database
+https://physionet.org/content/mitdb/1.0.0/
