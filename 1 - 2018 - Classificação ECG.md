@@ -31,3 +31,5 @@ deve ser cortado as batidas e zerá-las após um determinado comprimento
 Aqui temos uma rede neural convulacional para classificalção dos batimentos ECG de dados MIT-BIH. Esse método de classificação pode ser usado não somente para para fins de detecção de arritmia mas tambem como um informativo de batidas do coração.
 
 Todas as camadas de convolução estão aplicando convolução com 32 kernels de tamanho 5. A rede de previsão consiste em cinco blocos residuais seguidos por duas camadas totalmente conectadas com 32 neurônos. Cada bloco contém duas camadas ReLU, com uma camada residual.
+
+# Neste artigo tem imgens importantes
