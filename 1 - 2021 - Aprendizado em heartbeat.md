@@ -4,7 +4,15 @@
 
 
 # Referencias
-
+```
+@article{ullah2021classification,
+  title={Classification of arrhythmia in heartbeat detection using deep learning},
+  author={Ullah, Wusat and Siddique, Imran and Zulqarnain, Rana Muhammad and Alam, Mohammad Mahtab and Ahmad, Irfan and Raza, Usman Ahmad},
+  journal={Computational Intelligence and Neuroscience},
+  volume={2021},
+  year={2021},
+  publisher={Hindawi}
+}
 ```
 
 ## Pontos fortes
