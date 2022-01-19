@@ -40,8 +40,15 @@ Deste modo, foi usado duas funções ReLU e Swish.
 
 
 ### Resultados
-Após o uso do conjunto de dados aprimorado, e 3 conjuntos gerados são um modelo inicial com o conjunto de dados original,  
+Atravé de um conjunto de dados aprimorado, foi gerado 3 conjuntos de dados
 
+A precisão do LSTM foi de 99,12%, 
+o CNN + LSTM teve precisão média de 99,3%.
+o CNN + LSTM + Modelo de atenção teve precisão de 99,29%
+
+
+###
+No futuro espera-se que este estudo esteja voltado para domínios vinculativos como e nuvem e dispositivos móveis. E tambem com tecnologias vestíveis e de baixo consumo de energia.
 
 ## Pontos fracos
 - A biblioteca do banco de dados de ECG (wfdb) foi usada para o estudo
