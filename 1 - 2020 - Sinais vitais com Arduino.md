@@ -29,11 +29,3 @@ O autor elabora uma aplicação com arduíno para o uso de sinais vitais
 O Autor apresenta uma aplicação com o uso de arduíno, que seriam um hardware de facil aquisição por ser de menor custo, para receber os sinais advindos dos sensores dos sinais vitais para apresentar os dados em um sistema supervisório com o objetivo de visualizar, monitorar, aferir e calcular os dados. Assim sendo nota-se que há muitos hardwares para detecção de sinais e tambem sistemas de baixo custo que filtre e apresente estes sinais com custos menos onerosos parai mplantação.
 
 
-Verificar artigo:
-JENITHA, T.; JEYASHEELI, P. G.; E RAJI, A.; "IoT 
-based classification of vital signs data for 
-chronic disease monitoring," 2016 10th 
-International Conference on Intelligent 
-Systems and Control (ISCO), Coimbatore, 
-2016, pp. 1-5. 
-https://doi.org/10.1109/ISCO.2016.7727048.

@@ -38,6 +38,10 @@
 
  2. Algoritmo J48: Gera uma árvore de decisão para cada conjunto de dados, a participação que tem maior ganho de informação é selecionada como mehor atributo que classifique os dados.
 
+ 3. Algoritmo SVM: 
+
+
+# tem muitas figuras no artigo.
 
 ## Pontos fracos:
 
