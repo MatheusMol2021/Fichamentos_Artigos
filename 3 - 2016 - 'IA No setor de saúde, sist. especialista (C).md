@@ -31,10 +31,9 @@ A terceira e última parte do estudo compreende as considerações finais sobre 
 Esse artigo tem orientações sobre o avaço dos sistemas especialistas ao longo dos anos e como usá-los em uma aplicação voltada para o direito
 
 ## Pontos Fortes
-- IA fraca seria aquela verificada nas tecnologias atuais e consistiria no fato de que a IA seria capaz de executar tarefas limitadas a determinadas
-capacidades humanas, como lógica etc, e que são de interesse para aplicação comercial. 
+- IA fraca seria aquela verificada nas tecnologias atuais e consistiria no fato de que a IA seria capaz de executar tarefas limitadas a determinadas capacidades humanas, como lógica etc, e que são de interesse para aplicação comercial. 
 
-- Chama-se atenção para um campo de pesquisa denominado Inteligência Artificial na Medicina, que consiste na aplicação de tecnologias de inteligência artificial na Medicina. Essas tecnologias podem ser das mais diversas aplicações, desde softwares especialistas capazes de prover diagnósticos, computação bioinspirada mediante a utilização de redes neurais artificiais, até robôs que auxiliam cirurgiões em operações de alta precisão.
+- 'Chama-se atenção para um campo de pesquisa denominado Inteligência Artificial na Medicina, que consiste na aplicação de tecnologias de inteligência artificial na Medicina. Essas tecnologias podem ser das mais diversas aplicações, desde softwares especialistas capazes de prover diagnósticos, computação bioinspirada mediante a utilização de redes neurais artificiais, até robôs que auxiliam cirurgiões em operações de alta precisão.
 
 - Determinados sistemas dotados de inteligência artificial são capazes de prover diagnósticos precisos e até mesmo um planejamento terapêutico personalizado.
 

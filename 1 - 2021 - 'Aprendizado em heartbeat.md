@@ -15,12 +15,16 @@
 }
 ```
 
+## Introdução
+
+'O maior problema de saúde pública são as doenças cardiovasculares. Ataques cardíacos e derrames são responsáveis por quatro em cada cinco mortes por doenças cardiovasculares, as principais são Doença cardíaca coronária, doença cerebrovascular e doença cardíaca reumática. O ECG é um exame não invasivo que registra o estado fisioógico do coração ao longo do tempo, com este método contrações prematuras dos átrios (PAC) ou ventrículos (PVC), fibrilação atrial (FA), infarto do miocárdio (IM) e insuficiência cardíaca congestiva, podem ser diagnóticadas. Por fim, com o advento de novos vestíveis como o Apple Watch, os dados ECG podem ser analisados automaticamente e corretamente.
+
 ## Pontos fortes
-- os fatores saúdaveis levam em consideração o indivíduo adulto e portanto os fatores de diagnóstio se diferem 
+- 'os fatores saúdaveis levam em consideração o indivíduo adulto e portanto os fatores de diagnóstio se diferem 
 
-- Cada anormalidade da frequencia cardíaca normal, inscluindo disturbios de frequencia cardíaca e regularidade ou condução do impulso elétrico cardíaco, é chamado de arritimias.
+- 'Cada anormalidade da frequencia cardíaca normal, inscluindo disturbios de frequencia cardíaca e regularidade ou condução do impulso elétrico cardíaco, é chamado de arritimias.
 
-- explorou muitos métodos DL, incluindo CNN, DBN, rede neural recorrente, memória de curto prazo (LSTM) e máquina recorrente bloqueada.
+- 'explorou muitos métodos DL, incluindo CNN, DBN, rede neural recorrente, memória de curto prazo (LSTM) e máquina recorrente bloqueada.
 ANN,o julgamento final de desempenho do modelo 
 CNN é dependente sobre os pesos da estrutura de rede e preferências do camadas anteriores.
 
@@ -33,12 +37,12 @@ resultando em atenuação de 13,4 dB.
 áreas complexas, como classificação de imagem e máquina tradução.
 
 - Materiais e Métodos:
-- - Dataset: foi utilizado o conjunto de dados amostrados do banco de dados de arritmia MITBIH e no ECG Daignósticos PTB. Ambos os bancos de dados tem quantidade de dados o suficiente para testar um rede neural profunda.
+'- - Dataset: foi utilizado o conjunto de dados amostrados do banco de dados de arritmia MITBIH e no ECG Daignósticos PTB. Ambos os bancos de dados tem quantidade de dados o suficiente para testar um rede neural profunda.
 
-- - Metodologia: foram usados um total de 10 arquivos no formato csv e 3 no formato pth, em u total de 10505 linhas e 188 colunas. de modo que a porcentagem média de dados usados foi de 7,35%, porcentaem de contração de 6,61% e a porcentagem de prematuros atriais é 2,54%.
+'- - Metodologia: foram usados um total de 10 arquivos no formato csv e 3 no formato pth, em u total de 10505 linhas e 188 colunas. de modo que a porcentagem média de dados usados foi de 7,35%, porcentaem de contração de 6,61% e a porcentagem de prematuros atriais é 2,54%.
  Foi usado um treinamento no modelo GAN(Generative Rede Adversária) para separar uma classe ventricular e normal pois a maioria são bastante semelhantes, é isso que o modelo GAN aprendeu a criar.  
 
-- - Modelo Proposto:
+'- - Modelo Proposto:
 (i) obter informações de atenção do codificador,
 (ii) calcular os níveis de atenção.
 (iii) calcula a relevância de cada estado do decodificador, e retonna a pontuação do valor escalar.

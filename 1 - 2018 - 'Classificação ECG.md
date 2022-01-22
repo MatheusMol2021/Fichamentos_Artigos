@@ -17,11 +17,11 @@
 
 ## Pontos Fortes
 
-O eletrocardiograma pode ser usado de maneira confiável para monitorar a funcionalidade do sistema cardiovascular,
+'O eletrocardiograma pode ser usado de maneira confiável para monitorar a funcionalidade do sistema cardiovascular,
 
-No artigo, foi usado o conjunto de dados "MIT-BIH e PTB" Diagnostics da PhysionNet, nele foi aplicado um método baseado em redes neurais profundas, no método utilizado ele é capaz de fazer previsões com acurácias médias de 93,4% a 95,9% para classificação de aritmias.
+'No artigo, foi usado o conjunto de dados "MIT-BIH e PTB" Diagnostics da PhysionNet, nele foi aplicado um método baseado em redes neurais profundas, no método utilizado ele é capaz de fazer previsões com acurácias médias de 93,4% a 95,9% para classificação de aritmias.
 
-No uso de técnicas de aprendizagem de máquina, além de pré processar os sinais, a análise ede processamento de sinais como perceptrons multicamadas, árvores de decisão, etc.
+'No uso de técnicas de aprendizagem de máquina, além de pré processar os sinais, a análise ede processamento de sinais como perceptrons multicamadas, árvores de decisão, etc.
 
 Metodologia:
 - Pré-Processsamento:

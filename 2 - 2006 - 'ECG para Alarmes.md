@@ -20,7 +20,7 @@ desses algoritmos. Planeja-se a sua utilização em tempo real para geração au
 ## Pontos Fortes
 - O autor utiliza os dados ECG para o monitoramento dos sinais vitais dos pacietes,
 
-- pacientes com doenças cardíacas crônicas necessitam de um acompanhamento especial, foi então introduzido a telecardiologia com o tele-monitoramento para acompanhar os seus sinais vitais e posteriormente gerar alarmes para que na identificação de alguma anomalia possa ser feito um monitoramento eficaz, minorando as consequencias da doença.
+- 'pacientes com doenças cardíacas crônicas necessitam de um acompanhamento especial, foi então introduzido a telecardiologia com o tele-monitoramento para acompanhar os seus sinais vitais e posteriormente gerar alarmes para que na identificação de alguma anomalia possa ser feito um monitoramento eficaz, minorando as consequencias da doença.
 
 - Diversos sistemas apresentados na literatura realizam o processamento de sinais
 de ECG [Shui-cai 2004] [Boquete 2005] [Zhongming 2003] [Hermans 2004] [Dorn

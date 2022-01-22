@@ -16,4 +16,4 @@
 ```
 
 # Comentário
-Graças ao sua facilidade de uso, Python é atualmente a linguagem de programação de crescimento mais rápido no mundo. Ela possui curva de aprendizado rápida e tambem possui inúmeros pacotes de alta qualidade para ciência de dados e aprendizado de máquina.
+'Graças ao sua facilidade de uso, Python é atualmente a linguagem de programação de crescimento mais rápido no mundo. Ela possui curva de aprendizado rápida e tambem possui inúmeros pacotes de alta qualidade para ciência de dados e aprendizado de máquina.

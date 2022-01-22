@@ -30,16 +30,16 @@ O Artigo apresenta o uso de dispositivos vestíveis para aquisição de dados
 LoRa (Long Range radio).
 
 ### Introdução
-Monitorar o estado de saúde, tanto para níveis médicos ou simplesmente para autosuficiêcia, permite um diagnóstico precoce e orienta um melhor tratamento. Associado a isso, a revolução tecnológica para miniatufização dos dispositivos favorece cada vez mais a implantação de dispositivos vestíveis para monitorar os sinais vitais dos indivíduos. Dentre os sinais vitais o autor cita que frequência cardíaca, pressão sanguínea e saturação de oxigênio são alguns dos principais sistemas a serem monitorados.
+'Monitorar o estado de saúde, tanto para níveis médicos ou simplesmente para autosuficiêcia, permite um diagnóstico precoce e orienta um melhor tratamento. Associado a isso, a revolução tecnológica para miniatufização dos dispositivos favorece cada vez mais a implantação de dispositivos vestíveis para monitorar os sinais vitais dos indivíduos. Dentre os sinais vitais o autor cita que frequência cardíaca, pressão sanguínea e saturação de oxigênio são alguns dos principais sistemas a serem monitorados.
 
 ### Elaboração
-A detecção de anomalias consiste na identificação de padrões incomuns ou que não estão em conformidade com o esperado. O alarme é apenas uma subtarefa para informar quando alguma dessa anomalia é detectada.
+'A detecção de anomalias consiste na identificação de padrões incomuns ou que não estão em conformidade com o esperado. O alarme é apenas uma subtarefa para informar quando alguma dessa anomalia é detectada.
 
-Existem 4 requisitos para os dispositivos vestíveis seriam: baixo consumo de energia, confiabilidade, segurança, conforto e ergonomia.
+'Existem 4 requisitos para os dispositivos vestíveis seriam: baixo consumo de energia, confiabilidade, segurança, conforto e ergonomia.
 
-Na literatura da medicina, os sinais mais importantes a serem monitorados são frequência cardíaca, pressão sanguínea, frequência respiratória, saturação de oxigenio, temperatura do corpo. 
+'Na literatura da medicina, os sinais mais importantes a serem monitorados são frequência cardíaca, pressão sanguínea, frequência respiratória, saturação de oxigenio, temperatura do corpo. 
 
-O artigo trabalha com 4 sinais:
+' artigo trabalha com 4 sinais:
 - **Frequência cardíaca**: é um sinal padrão e que se tornou uma medida de rotina em ambos os serviços de saúde, pois é um indicador de um status psicofisiológicos humano para medições de estresse e fadiga.
 
 - **Pressão sanguínea**: é um parametro cardiopulmonar importante que permite monitorar a hipertensão alem de colaborar para mitigar doenças relacionadas ao sistema cardiovascular,
