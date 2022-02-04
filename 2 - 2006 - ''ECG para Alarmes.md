@@ -13,9 +13,12 @@
 }
 ```
 
+## Trabalhos correlatos.
+O artigo apresenta um sistema de análise de eletrocardiograma com algoritmos de segmentação e classificação do sinal para  geração automática de alarmes em tempo real para auxílio no diagnóstico médico, em sua pesquisa foi utilizada uma base de dados de 105 registros de 15 minutos de sinais amostrados. A estrutura de sua pesquisa foi distruibuída em 3 camadas, a camada 0 trata-ve da segmentação dos sinais com o qual considerava as formas de ondas de batimento cardíaco: P, QRS, T e posteriormente processada a transformada de Wavelet Chapéu mexicano que tem a função realçar a informação útil do sinal em detrimento do ruído. A camada 1 utilizava regras heurísticas para usca de traços característicos nos sinais seguimentados em relação aos pontos QRS. Por fim na camada 2 o sistema verificava eventos anosrmais persistentes que permitia identificar episódios de isquemia cardíaca que ocorrem quando o limiar de 0,1 mV ultrapassa os 30 segundos.
+
+
 ## Resumo
-Este artigo apresenta um sistema de análise de eletrocardiograma (ECG) ambulatorial, desenvolvido em Matlab, voltado para o monitoramento da atividade elétrica do coração de pacientes. O aplicativo conta com algoritmos de segmentação e classificação do sinal de ECG, e com uma interface gráfica amigável, que executa e gera a visualização dos resultados
-desses algoritmos. Planeja-se a sua utilização em tempo real para geração automática de alarmes e criação de relatório de eventos para auxílio ao diagnóstico médico. 
+Este artigo apresenta um sistema de análise de eletrocardiograma (ECG) ambulatorial, desenvolvido em Matlab, voltado para o monitoramento da atividade elétrica do coração de pacientes. O aplicativo conta com algoritmos de segmentação e classificação do sinal de ECG, e com uma interface gráfica amigável, que executa e gera a visualização dos resultados desses algoritmos. Planeja-se a sua utilização em tempo real para geração automática de alarmes e criação de relatório de eventos para auxílio ao diagnóstico médico. 
 
 ## Pontos Fortes
 - O autor utiliza os dados ECG para o monitoramento dos sinais vitais dos pacietes,
