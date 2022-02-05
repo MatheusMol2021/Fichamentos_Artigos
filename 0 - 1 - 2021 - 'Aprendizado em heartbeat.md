@@ -15,6 +15,21 @@
 }
 ```
 
+## Trabalhos correlatos.
+
+O autor utiliza técnicas de aprendizado profundo em conjunto de dados disponíveis publicamente para classificar arritmia. Foi usado dois tipos de conjuntos de dados em seu trabalho de pesquisa. um conjunto de dados é o banco de dados MIT-BIH, com freqências de amostragem de 125Hz com 109446 batimentos de ECG, o segundo foi o banco de ECG Diagnostico PTB, nesses conjuntos de dados os sinais correpondem ao ECG de batimentos cardíacos. A técnicas utilizadas foram CNN, CNN+LSTM e CNN + LSTM + modelo de atenção. 80% dos dados foram separados para treino e os 20% restantes foram utilizados para teste, os resultados obtids com as técnicas foram precisão de 99,12% para o modelo CNN, 99,3% para o CNN e 99,29% para o LSTM+CNN + moldeo de atenção.
+
+Em sua metodologia, antes do uso das técnicas de deep learning, foi separado  um total de 10 arquivos .csv e 3 .pth, o total de dados continha 10505 linhas e 188 colunas, posterioemte foi aplicado GAN  (Generative Adversarial Network) ou rede adversária negativa para gerar sinais dominantes e criar novos dados artificiais para classes com poucos dados e nivelar todas as bases de dados. Após a aplicação dos métodos CNN+LSTM+Modelo de atenção foi obtido grande nível de acurácia na classificação dos sinais. Diante dos genades resultados encontrados, o autor espera que no futuro sua pequisa seja usada em domínios vinvulativos como nuvem, dispositivos móveis e também com tecnologias vestíveis integradas.
+
+
+
+
+#outros tituloos
+F. Murat, O. Yildirim, M. Talo, U. B. Baloglu, Y. Demir, and
+U. R. Acharya, “Application of deep learning techniques for
+heartbeats detection using ECG signals-analysis and review,”
+Computers in Biology and Medicine, vol. 120, p. 103726, 2020
+
 ## Introdução
 
 'O maior problema de saúde pública são as doenças cardiovasculares. Ataques cardíacos e derrames são responsáveis por quatro em cada cinco mortes por doenças cardiovasculares, as principais são Doença cardíaca coronária, doença cerebrovascular e doença cardíaca reumática. O ECG é um exame não invasivo que registra o estado fisioógico do coração ao longo do tempo, com este método contrações prematuras dos átrios (PAC) ou ventrículos (PVC), fibrilação atrial (FA), infarto do miocárdio (IM) e insuficiência cardíaca congestiva, podem ser diagnóticadas. Por fim, com o advento de novos vestíveis como o Apple Watch, os dados ECG podem ser analisados automaticamente e corretamente.
