@@ -13,25 +13,25 @@
 ```
 ## Trabalhos correlatos
 
-O autor também utiliza em sua pesquisa as redes neurais do tipo Long Short-term LSTM para predição de séries temporais para doenças como a covid-19, tambem com uma basae de dados de domínio público, foi o escolhido pois a LSTM por conseguir aprender séries temporais que longas sequencias de observações no domínio do tempo
+''O autor também utiliza em sua pesquisa as redes neurais do tipo Long Short-term LSTM para predição de séries temporais para doenças como a covid-19, tambem com uma basae de dados de domínio público, foi o escolhido pois a LSTM por conseguir aprender séries temporais que longas sequencias de observações no domínio do tempo
 
-###Etapa 1 - preparação dos dados.
+'###Etapa 1 - preparação dos dados.
 O primeiro passo de sua metodologia consistia na preparação dos dados, sua base de dados possuia as quantidade diárias de casos confirmados de COVID-19 entre o período de 2020 e 2021. Através de uma função de regressão foi possível converter uma única coluna de dados em duas outras colunas, a primeira coluna contendo a contagem de dias e a segunda contendo a quantidade de dados confirmados
 
-###Etapa 2 - Desenvolvimento da rede neural Long Short-Term Memory.
+'###Etapa 2 - Desenvolvimento da rede neural Long Short-Term Memory.
 Depois de  modelar os dados para avaliação do método utilizado, foi divido os dados em conjuntos de treino e teste, 67% do total de dados adquirido  foi separado para o treinar o modelo e 33% para testes. o modelo descrito foi implementado usando 200 épocas.
 
-###Etapa 3 - Hiperparametros da rede neural LSTM e método de avaliação de semplenho.
+'###Etapa 3 - Hiperparametros da rede neural LSTM e método de avaliação de semplenho.
 Foi utilizado um otimizadosr "Adam", que se se baseia  em estimativa adaptativa de momentos de primeira e segunda ordem, 
 além do otimizador um importante parãmetro foi o "dropout" que consegue reduzir o sobre-ajuste em redes neurais artificias para melhorar a eficiência do sistema.
 o método de avaliação de desempenho para o LSTM foi o erro mério quadrático, que tem o objetivo de encontrar a diferenlça média  de um valor e seu parâmetro inicial, seu uso é destinado a compreender um "erro de previsão, quanto menor for erro quadrático melhor será a previsão.
 
-###Etapa 4 - Grade de busca
+'###Etapa 4 - Grade de busca
 Para decidir o melhor resultado obtido pelo modelo, foi feita uma árvore de
 O autor testou diferente cobinações em 200 épocas
 sua eficiência  foi em cerca de 99% do modelo proposto
 
-o objetivo do presente trabalho foi apresentar o modelo de redes neurais LSTM, com o  foco na predição de séries temporais em casos confirmados de covid, seu modelo conseguiu atingir o objetivo final em predizer dados da panademia em países como Brasil, Ìndia e China, 
+'o objetivo do presente trabalho foi apresentar o modelo de redes neurais LSTM, com o  foco na predição de séries temporais em casos confirmados de covid, seu modelo conseguiu atingir o objetivo final em predizer dados da panademia em países como Brasil, Ìndia e China, 
 
 
 seu modelo obteve bons resultados na área de predição de dados

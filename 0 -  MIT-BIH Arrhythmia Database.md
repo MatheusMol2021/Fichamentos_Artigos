@@ -29,7 +29,7 @@ OS ECG são muito utilizados por serem um método não invasivo de avaliar a fis
 
 Nas décadas de 1960 e 1970, o desenvolvimento de algoritmos automatizados foi dificultados pela falta de dados universalmente acessíveis. Cada grupo utilizava seu próprio conjunto de dados e muitas vezes auto-avaliaram seus algoritmos  usando esse mesmos dados e ficou claro que o desempenho de seus algoritmos era dependente dos dados,
 
-Reconhecendo a necessidade de um conjunto adequado de ECG ao longo para encorajar avaliaç~poes estritamente reprodutíveis, foi esperado uma disponibilidade de uma base de dadso comum entre idades de 23 a 89 anos. Na maioria dos registros, um canal é um membro mdificado de chumbo II (MLII), obtido pela colocação de eletrodos no tórax como é feito no registro ambulatorial de ECG, e o outro canal é geralmente V1(às vezes V2, V4 ou V5, dependendo do assunto).
+Reconhecendo a necessidade de um conjunto adequado de ECG ao longo para encorajar avaliaç~poes estritamente reprodutíveis, foi esperado uma disponibilidade de uma base de dados comum entre idades de 23 a 89 anos. Na maioria dos registros, um canal é um membro mdificado de chumbo II (MLII), obtido pela colocação de eletrodos no tórax como é feito no registro ambulatorial de ECG, e o outro canal é geralmente V1(às vezes V2, V4 ou V5, dependendo do assunto).
 
 Foram necessários 5 anos para concluir a digitalização, devido aos limites da tecnoogia daquela época
 
