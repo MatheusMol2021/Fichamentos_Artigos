@@ -1,4 +1,4 @@
-# MIT-BIH Arrhythmia Database tt
+# MIT-BIH Arrhythmia Database 
 
 ## Physionet (https://physionet.org/content/mitdb/1.0.0/)
 um dos primeiros grandes produtos na pesquisa de análise de arritmia e assuntos relacionados foi o MIT-BIH Arrhythmia Database, este foi o primeiro material de teste padrão disponível para avaliação para detectores de arritmia.
