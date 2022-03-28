@@ -6,14 +6,14 @@
 ## Referencia
 '''bibtex
 @article{article,
-author = {Lee, and Cho, and Whang, Mincheol},
-year = {2019},
-month = {07},
-pages = {3263},
-title = {Vision-Based Measurement of Heart Rate from Ballistocardiographic Head Movements Using Unsupervised Clustering},
-volume = {19},
-journal = {Sensors},
-doi = {10.3390/s19153263}
+    author = {Lee, and Cho, and Whang, Mincheol},
+    year = {2019},
+    month = {07},
+    pages = {3263},
+    title = {Vision-Based Measurement of Heart Rate from Ballistocardiographic Head Movements Using Unsupervised Clustering},
+    volume = {19},
+    journal = {Sensors},
+    doi = {10.3390/s19153263}
 }
 '''
 
